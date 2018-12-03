@@ -1,0 +1,12 @@
+driverClassName:com.mysql.cj.jdbc.Driver
+Database User Name:root
+Database Password:12345678
+Database Host:localhost
+Database Port:3306
+Database Name:insurance
+maxActive:100
+maxIdle:5
+maxWait:-1
+removeAbandoned:true
+removeAbandonedTimeout:300
+logAbandoned:false
